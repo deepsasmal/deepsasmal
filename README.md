@@ -20,7 +20,7 @@ Hi there! I'm **Deep**, a technology professional passionate about building scal
 
 ## ⚡ **Tech Stack & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=bash,discord,elasticsearch,fastapi,firebase,figma,flask,gcp,git,github,mint,mongodb,obsidian,postgres,py,pytorch,redis,sqlite,sublime,tensorflow,ubuntu,vscode,windows,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,discord,elasticsearch,fastapi,firebase,figma,flask,gcp,git,github,mint,mongodb,obsidian,postgres,py,pytorch,redis,sqlite,sublime,tensorflow,ubuntu,vscode,windows,&perline=6)](https://skillicons.dev)
 
 
 ### **Languages**
