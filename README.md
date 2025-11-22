@@ -4,17 +4,7 @@
 
 ### **Tech Professional | Data Scientist | AI Engineer | Cloud Engineer**
 
-Hi there! I'm **Deep**, a technology professional passionate about building scalable systems, crafting intelligent AI workflows, and designing clean engineering architectures.
-
----
-
-## 🧠 **About Me**
-
-* 🔹 Data Scientist
-* 🔹 AI/ML Engineer working with modern LLM-based systems
-* 🔹 Cloud Engineer (Google Cloud)
-* 🔹 Passionate about clean architectures & first‑principles thinking
-* 🔹 Love designing end‑to‑end agent workflows
+Hi there! I'm **Deep**, a technology professional passionate about building scalable systems, crafting intelligent AI workflows, and designing clean engineering architectures.There’s a bit more behind the scenes, but I’ll save that for a good conversation. :)
 
 ---
 
@@ -23,13 +13,21 @@ Hi there! I'm **Deep**, a technology professional passionate about building scal
 [![My Skills](https://skillicons.dev/icons?i=bash,discord,elasticsearch,fastapi,firebase,figma,flask,gcp,git,github,mint,mongodb,obsidian,postgres,py,pytorch,redis,sqlite,sublime,tensorflow,ubuntu,vscode,windows,&perline=6)](https://skillicons.dev)
 
 
+## 🧠 **About Me**
+
+* 🔹 Data Scientist
+* 🔹 AI/ML Engineer
+* 🔹 Cloud Engineer (Google Cloud)
+* 🔹 Passionate about clean architectures & first‑principles thinking
+* 🔹 Love designing end‑to‑end agent workflows
+
 ### **Languages**
 
 * Python, SQL, Java
   
 ### **Frameworks & Libraries**
 
-* FastAPI, LangChain, Agno, Langraph, Flask
+* FastAPI, LangChain, Agno, Langraph, Flask, etc.,
 
 ### **Cloud & DevOps**
 
@@ -37,18 +35,17 @@ Hi there! I'm **Deep**, a technology professional passionate about building scal
 
 ### **Databases**
 
-* PostgreSQL, MySQL, MongoDB, Redis, DuckDB, Big Query
+* PostgreSQL, MySQL, MongoDB, Redis, DuckDB, Google Big Query
 
 ---
 
 ## 🛠️ **What I Build**
 
-* LLM agent workflows
+* AI Agent Systems
 * Intelligent automation tools
 * Data pipelines & analytics systems
-* Cloud‑native scalable services
+* Cloud‑native scalable Architecture / Open Source Architecture
 * High‑quality engineering documentation
-
 
 ---
 
