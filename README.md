@@ -20,6 +20,8 @@ Hi there! I'm **Deep**, a technology professional passionate about building scal
 
 ## ⚡ **Tech Stack & Tools**
 
+[![My Skills](https://skillicons.dev/icons?i=bash,discord,docker,elasticsearch)](https://skillicons.dev)
+
 ### **Languages**
 
 * Python, SQL, Java
