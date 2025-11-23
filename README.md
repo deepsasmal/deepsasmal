@@ -15,11 +15,11 @@ Hi there! I'm **Deep**, a technology professional passionate about building scal
 
 ## 🧠 **About Me**
 
-* 🔹 Data Scientist
-* 🔹 AI/ML Engineer
-* 🔹 Cloud Engineer (Google Cloud)
-* 🔹 Passionate about clean architectures & first‑principles thinking
-* 🔹 Love designing end‑to‑end agent workflows
+ 🔹 Data Scientist
+ 🔹 AI/ML Engineer
+ 🔹 Cloud Engineer (Google Cloud)
+ 🔹 Passionate about clean architectures & first‑principles thinking
+ 🔹 Love designing end‑to‑end systems
 
 ### **Languages**
 
@@ -55,4 +55,4 @@ Hi there! I'm **Deep**, a technology professional passionate about building scal
 * 🔗 LinkedIn: *[Deep Sasmal](https://www.linkedin.com/in/deep-sasmal)*
 
 
-### *"Engineering is not just building — it's understanding the why behind the build."*
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=Architect&quoteType=random)
