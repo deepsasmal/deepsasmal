@@ -1,7 +1,10 @@
 # 🚀 Deep Sasmal
 
 <img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/d3d93e24-ed27-4c25-9899-f16d085d629f" />
-<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/f8021058-cd72-4f44-8c99-b09d4b33fd88" />
+
+
+
+[<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/f8021058-cd72-4f44-8c99-b09d4b33fd88" />](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 
 ### **Tech Professional | Data Scientist | AI Engineer | Cloud Engineer**
