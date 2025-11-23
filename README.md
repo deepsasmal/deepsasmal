@@ -21,7 +21,6 @@ Hi there! I'm **Deep**, a technology professional passionate about building scal
 
 [![My Skills](https://skillicons.dev/icons?i=bash,discord,elasticsearch,fastapi,firebase,figma,flask,gcp,git,github,mint,mongodb,obsidian,postgres,py,pytorch,redis,sqlite,sublime,tensorflow,ubuntu,vscode,windows,&perline=8)](https://skillicons.dev)
 
-
 ## 🧠 **About Me**
 
  🔹 Data Scientist
@@ -29,6 +28,7 @@ Hi there! I'm **Deep**, a technology professional passionate about building scal
  🔹 Cloud Engineer (Google Cloud)
  🔹 Passionate about clean architectures & first‑principles thinking
  🔹 Love designing end‑to‑end systems
+<br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 ### **Languages**
 
