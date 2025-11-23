@@ -7,15 +7,12 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 ### **Tech Professional | Data Scientist | AI Engineer | Cloud Engineer**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 Hi there! I'm **Deep**, a technology professional passionate about building scalable systems, crafting intelligent AI workflows, and designing clean engineering architectures.There’s a bit more behind the scenes, but I’ll save that for a good conversation. :)
 
----
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=Architect&quoteType=random)
 ## ⚡ **Tech Stack & Tools**
 
@@ -30,18 +27,22 @@ Hi there! I'm **Deep**, a technology professional passionate about building scal
  🔹 Love designing end‑to‑end systems
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 ### **Languages**
 
 * Python, SQL, Java
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 ### **Frameworks & Libraries**
 
 * FastAPI, LangChain, Agno, Langraph, Flask, etc.,
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 ### **Cloud & DevOps**
 
 * Google Cloud, Docker, MLFLow, Kubeflow, GitHub Actions
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 ### **Databases**
 
 * PostgreSQL, MySQL, MongoDB, Redis, DuckDB, Google Big Query
