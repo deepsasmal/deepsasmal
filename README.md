@@ -10,7 +10,7 @@ Hi there! I'm **Deep**, a technology professional passionate about building scal
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=Architect&quoteType=random)
 ## ⚡ **Tech Stack & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=bash,discord,elasticsearch,fastapi,firebase,figma,flask,gcp,git,github,mint,mongodb,obsidian,postgres,py,pytorch,redis,sqlite,sublime,tensorflow,ubuntu,vscode,windows,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,discord,elasticsearch,fastapi,firebase,figma,flask,gcp,git,github,mint,mongodb,obsidian,postgres,py,pytorch,redis,sqlite,sublime,tensorflow,ubuntu,vscode,windows,&perline=8)](https://skillicons.dev)
 
 
 ## 🧠 **About Me**
