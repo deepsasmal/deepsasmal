@@ -1,6 +1,8 @@
 # 🚀 Deep Sasmal
 
 <img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/d3d93e24-ed27-4c25-9899-f16d085d629f" />
+<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/f8021058-cd72-4f44-8c99-b09d4b33fd88" />
+
 
 ### **Tech Professional | Data Scientist | AI Engineer | Cloud Engineer**
 
