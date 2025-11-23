@@ -1,6 +1,8 @@
 # 🚀 Deep Sasmal
-
+<br><br>
 <img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/d3d93e24-ed27-4c25-9899-f16d085d629f" />
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
