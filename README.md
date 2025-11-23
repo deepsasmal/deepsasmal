@@ -7,7 +7,7 @@
 Hi there! I'm **Deep**, a technology professional passionate about building scalable systems, crafting intelligent AI workflows, and designing clean engineering architectures.There’s a bit more behind the scenes, but I’ll save that for a good conversation. :)
 
 ---
-
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=Architect&quoteType=random)
 ## ⚡ **Tech Stack & Tools**
 
 [![My Skills](https://skillicons.dev/icons?i=bash,discord,elasticsearch,fastapi,firebase,figma,flask,gcp,git,github,mint,mongodb,obsidian,postgres,py,pytorch,redis,sqlite,sublime,tensorflow,ubuntu,vscode,windows,&perline=6)](https://skillicons.dev)
@@ -55,4 +55,4 @@ Hi there! I'm **Deep**, a technology professional passionate about building scal
 * 🔗 LinkedIn: *[Deep Sasmal](https://www.linkedin.com/in/deep-sasmal)*
 
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=Architect&quoteType=random)
+
