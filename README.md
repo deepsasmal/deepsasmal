@@ -1,7 +1,7 @@
 # 🚀 Deep Sasmal
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
-<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/d3d93e24-ed27-4c25-9899-f16d085d629f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/df98b151-4bbc-41a8-8fdb-0eae784d8ea6" />
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
 <br><br>
@@ -9,9 +9,7 @@
 
 ### **Tech Professional | Data Scientist | AI Engineer | Cloud Engineer**
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/df98b151-4bbc-41a8-8fdb-0eae784d8ea6" />
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 Hi there! I'm **Deep**, a technology professional passionate about building scalable systems, crafting intelligent AI workflows, and designing clean engineering architectures.There’s a bit more behind the scenes, but I’ll save that for a good conversation. :)
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=samuel&font=Architect&quoteType=random)
