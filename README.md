@@ -9,7 +9,8 @@
 
 ### **Tech Professional | Data Scientist | AI Engineer | Cloud Engineer**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/df98b151-4bbc-41a8-8fdb-0eae784d8ea6" />
+
 
 Hi there! I'm **Deep**, a technology professional passionate about building scalable systems, crafting intelligent AI workflows, and designing clean engineering architectures.There’s a bit more behind the scenes, but I’ll save that for a good conversation. :)
 
